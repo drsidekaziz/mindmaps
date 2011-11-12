@@ -1,0 +1,20 @@
+{
+  "name": "MindMapr",
+  "description": "Simplify your thoughts by using mindmaps to note down ideas,to-dos and decisions. Works Offline too!",
+  "version": "1.2",
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  },
+  "offline_enabled": true,
+  "permissions": [
+   "unlimitedStorage",
+   "contentSettings"
+],
+  "icons": {
+    "16": "img/icon.png",
+    "128": "img/icon.png"
+  }
+  
+}
