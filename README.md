@@ -16,3 +16,4 @@ OR, The latest stable build is hosted by Richard [here] (http://drichard.org/min
 
 ## License
 mindmaps is licensed under AGPL V3, see LICENSE for more information.
+
